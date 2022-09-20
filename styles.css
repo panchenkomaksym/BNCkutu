@@ -220,10 +220,10 @@ main.urunler {
 }
 
 .urun-aciklama {
-	padding: 30px;
-	background-color: #9afa82d2;
+	padding: 10px;
+	background-color: #ffffffb8;
 	color: #1c8a2b;
-	font-size: 25px;
+	font-size: 18px;
 	opacity: 0;
 	transition: 0.3s;
 }
